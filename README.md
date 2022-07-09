@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @derekolsen
+<!---
 - 👀 I’m interested in full-stack development and machine learning
 - 🌱 I’m currently learning Rust and JS
+-->
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
